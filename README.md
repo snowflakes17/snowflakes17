@@ -18,7 +18,7 @@
 <a href="https://codesandbox.com/snowflakes17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="snowflakes17" height="30" width="40" /></a>
 <a href="https://instagram.com/shivanipal151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanipal151" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivani14306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivani14306" height="30" width="40" /></a>
-<a href="https://discord.gg/Shivani1712#0317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shivani1712#0317" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
