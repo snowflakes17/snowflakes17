@@ -15,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivani-pal-28a0b5223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani-pal-28a0b5223" height="30" width="40" /></a>
-<a href="https://codesandbox.com/snowflakes17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="snowflakes17" height="30" width="40" /></a>
 <a href="https://instagram.com/shivanipal151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivanipal151" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivani14306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivani14306" height="30" width="40" /></a>
+<a href="https://codesandbox.com/snowflakes17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="snowflakes17" height="30" width="40" /></a>
 
 </p>
 
